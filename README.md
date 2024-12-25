@@ -1,8 +1,6 @@
-# Mini-LISP-interpreter-PLY-
-NCU CSIE Compiler Final Project
+# Compiler final project
 
 Author: RavenJS
-
 <NCU CISE 3-B 111502559 王嘉信>
 
 In this project, I use Python PLY to make a Mini-LISP interpreter.
@@ -96,3 +94,4 @@ PARAM_LIST  :
 PARAM       : EXP
 IF_EXP      : LPAREN IF EXP EXP EXP RPAREN
 ```
+
